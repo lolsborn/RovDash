@@ -1,0 +1,6 @@
+Makefile
+RovDash.app
+moc_*.cpp
+*.o
+*.dylib
+*.a
